@@ -1,0 +1,3 @@
+GitHub collaboration means multiple people can work on the same project together using branches, commits, and pull requests.
+Each person works on their own branch, and changes are reviewed before merging into the main project.
+This keeps the code organized, safe, and conflict-free while working as a team
