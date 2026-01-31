@@ -1,0 +1,7 @@
+A branch is like a separate copy of your project where you can work without disturbing the main project.
+Branches help you:
+1. Add new features
+2. Fix bugs
+3. Test new ideas
+4. Work in a team without conflicts
+5. Keep main code safe
